@@ -1,5 +1,5 @@
 public class FirstJavaProgram{
 	public static void main(String [] args){
-		System.out.print("Capgemini Traning Started");
+		System.out.print("Capgemini traning started $$");
 	}
 }
