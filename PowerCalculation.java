@@ -13,6 +13,6 @@ public class PowerCalculation{
 		
 		double result = Math.pow(number,power);
 		
-		System.out.print("Value of Perimeter is " + result);
+		System.out.print("The power of number is " + result);
 	}
 }
